@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: #e4a85e;
+}
+
+.card {
+    width: max-content;
+    height: max-content;
+    background: #c0a4a4;
+}
+
+button {
+    background-color: rgb(0, 255, 136);
+    padding: 30px;
+    margin: 20px;
+    border-radius: 20%;
+    width: max-content;
+}
+
+h1 {
+    background: aqua;
+}
